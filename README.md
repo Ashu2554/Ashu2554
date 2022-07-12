@@ -1,6 +1,6 @@
 PYTHON Lover :)
 
-Software Engineer @Discord.Inc | Coding Enthusiastic | Java Lover | Full-stack Web-Developer | Cloud & MicroServices | OTT Technologies | Blockchain | DTN | Trainer | Tech Content Writer | Open-Source Contributor Here are some ideas to get you started:
+Software Engineer @Connecto.Inc | Coding Enthusiastic | Automations Lover | Full-stack Web-Developer | Cloud & MicroServices | OTT Technologies | Blockchain | DTN | Open-Source Contributor Here are some ideas to get you started:
 
 Platform : Linux, Windows.
 
